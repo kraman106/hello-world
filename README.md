@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+If you wanna see the future,
+you can come and see me
